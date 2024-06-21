@@ -8,3 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 jeessy/ddns-go
+adguard/adguardhome
